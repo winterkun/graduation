@@ -1,0 +1,310 @@
+[ 2020-06-02T11:32:19+08:00 ] ::1 /tree/index.php/Home/Index/tianbao_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020300s ]
+SQL: SHOW COLUMNS FROM `tianbao` [ RunTime:0.0620s ]
+SQL: SELECT * FROM `tianbao`  [ RunTime:0.0004s ]
+
+[ 2020-06-02T11:32:19+08:00 ] ::1 /tree/index.php/Home/Index/teatianbao_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020367s ]
+SQL: SHOW COLUMNS FROM `teatianbao` [ RunTime:0.0812s ]
+SQL: SELECT * FROM `teatianbao`  [ RunTime:0.0004s ]
+
+[ 2020-06-02T11:32:19+08:00 ] ::1 /tree/index.php/Home/Index/shishi_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020444s ]
+SQL: SHOW COLUMNS FROM `shishi` [ RunTime:0.0963s ]
+SQL: SELECT * FROM `shishi`  [ RunTime:0.0004s ]
+
+[ 2020-06-02T11:32:19+08:00 ] ::1 /tree/index.php/Home/Index/yiqu_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020250s ]
+SQL: SHOW COLUMNS FROM `imp` [ RunTime:0.1089s ]
+SQL: SELECT * FROM `imp`  [ RunTime:0.0004s ]
+
+[ 2020-06-02T11:32:19+08:00 ] ::1 /tree/index.php/Home/Index/fenbu_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020359s ]
+SQL: SHOW COLUMNS FROM `fenbu` [ RunTime:0.1228s ]
+SQL: SELECT * FROM `fenbu`  [ RunTime:0.0005s ]
+
+[ 2020-06-02T11:32:21+08:00 ] ::1 /tree/index.php/Home/Index/fangkong_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+SQL: SHOW COLUMNS FROM `fangkong` [ RunTime:0.0438s ]
+SQL: SELECT * FROM `fangkong`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:32:21+08:00 ] ::1 /tree/index.php/Home/Index/jinxiao_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+SQL: SHOW COLUMNS FROM `dongtai` [ RunTime:0.0432s ]
+SQL: SELECT * FROM `dongtai`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:33:53+08:00 ] ::1 /tree/index.php/Home/Index/renshu_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+SQL: SHOW COLUMNS FROM `renshu` [ RunTime:0.0176s ]
+SQL: SELECT * FROM `renshu`  [ RunTime:0.0002s ]
+
+[ 2020-06-02T11:33:53+08:00 ] ::1 /tree/index.php/Home/Index/teatianbao_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+SQL: SHOW COLUMNS FROM `teatianbao` [ RunTime:0.0265s ]
+SQL: SELECT * FROM `teatianbao`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:33:53+08:00 ] ::1 /tree/index.php/Home/Index/tianbao_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+SQL: SHOW COLUMNS FROM `tianbao` [ RunTime:0.0311s ]
+SQL: SELECT * FROM `tianbao`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:33:53+08:00 ] ::1 /tree/index.php/Home/Index/fenbu_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `fenbu` [ RunTime:0.0382s ]
+SQL: SELECT * FROM `fenbu`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:33:53+08:00 ] ::1 /tree/index.php/Home/Index/yiqu_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+SQL: SHOW COLUMNS FROM `imp` [ RunTime:0.0412s ]
+SQL: SELECT * FROM `imp`  [ RunTime:0.0004s ]
+
+[ 2020-06-02T11:33:53+08:00 ] ::1 /tree/index.php/Home/Index/shishi_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `shishi` [ RunTime:0.0296s ]
+SQL: SELECT * FROM `shishi`  [ RunTime:0.0005s ]
+
+[ 2020-06-02T11:33:55+08:00 ] ::1 /tree/index.php/Home/Index/fangkong_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `fangkong` [ RunTime:0.0161s ]
+SQL: SELECT * FROM `fangkong`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:33:55+08:00 ] ::1 /tree/index.php/Home/Index/jinxiao_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+SQL: SHOW COLUMNS FROM `dongtai` [ RunTime:0.0164s ]
+SQL: SELECT * FROM `dongtai`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:40:00+08:00 ] ::1 /tree/index.php/Home/Index/tianbao_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `tianbao` [ RunTime:0.0270s ]
+SQL: SELECT * FROM `tianbao`  [ RunTime:0.0005s ]
+
+[ 2020-06-02T11:40:00+08:00 ] ::1 /tree/index.php/Home/Index/renshu_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+SQL: SHOW COLUMNS FROM `renshu` [ RunTime:0.0333s ]
+SQL: SELECT * FROM `renshu`  [ RunTime:0.0004s ]
+
+[ 2020-06-02T11:40:00+08:00 ] ::1 /tree/index.php/Home/Index/yiqu_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+SQL: SHOW COLUMNS FROM `imp` [ RunTime:0.0415s ]
+SQL: SELECT * FROM `imp`  [ RunTime:0.0004s ]
+
+[ 2020-06-02T11:40:00+08:00 ] ::1 /tree/index.php/Home/Index/shishi_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+SQL: SHOW COLUMNS FROM `shishi` [ RunTime:0.0461s ]
+SQL: SELECT * FROM `shishi`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:40:00+08:00 ] ::1 /tree/index.php/Home/Index/teatianbao_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+SQL: SHOW COLUMNS FROM `teatianbao` [ RunTime:0.0509s ]
+SQL: SELECT * FROM `teatianbao`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:40:00+08:00 ] ::1 /tree/index.php/Home/Index/fenbu_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+SQL: SHOW COLUMNS FROM `fenbu` [ RunTime:0.0573s ]
+SQL: SELECT * FROM `fenbu`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:40:02+08:00 ] ::1 /tree/index.php/Home/Index/fangkong_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+SQL: SHOW COLUMNS FROM `fangkong` [ RunTime:0.0178s ]
+SQL: SELECT * FROM `fangkong`  [ RunTime:0.0004s ]
+
+[ 2020-06-02T11:40:02+08:00 ] ::1 /tree/index.php/Home/Index/jinxiao_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+SQL: SHOW COLUMNS FROM `dongtai` [ RunTime:0.0178s ]
+SQL: SELECT * FROM `dongtai`  [ RunTime:0.0004s ]
+
+[ 2020-06-02T11:42:06+08:00 ] ::1 /tree/index.php/Home/Index/teatianbao_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002169s ]
+SQL: SHOW COLUMNS FROM `teatianbao` [ RunTime:0.0283s ]
+SQL: SELECT * FROM `teatianbao`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:42:06+08:00 ] ::1 /tree/index.php/Home/Index/renshu_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `renshu` [ RunTime:0.0368s ]
+SQL: SELECT * FROM `renshu`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:42:06+08:00 ] ::1 /tree/index.php/Home/Index/shishi_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `shishi` [ RunTime:0.0432s ]
+SQL: SELECT * FROM `shishi`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:42:06+08:00 ] ::1 /tree/index.php/Home/Index/tianbao_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `tianbao` [ RunTime:0.0527s ]
+SQL: SELECT * FROM `tianbao`  [ RunTime:0.0006s ]
+
+[ 2020-06-02T11:42:06+08:00 ] ::1 /tree/index.php/Home/Index/fenbu_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+SQL: SHOW COLUMNS FROM `fenbu` [ RunTime:0.0626s ]
+SQL: SELECT * FROM `fenbu`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:42:06+08:00 ] ::1 /tree/index.php/Home/Index/yiqu_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `imp` [ RunTime:0.0692s ]
+SQL: SELECT * FROM `imp`  [ RunTime:0.0004s ]
+
+[ 2020-06-02T11:42:08+08:00 ] ::1 /tree/index.php/Home/Index/fangkong_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+SQL: SHOW COLUMNS FROM `fangkong` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `fangkong`  [ RunTime:0.0003s ]
+
+[ 2020-06-02T11:42:08+08:00 ] ::1 /tree/index.php/Home/Index/jinxiao_all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+SQL: SHOW COLUMNS FROM `dongtai` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `dongtai`  [ RunTime:0.0003s ]
+
